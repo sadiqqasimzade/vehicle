@@ -12,3 +12,17 @@ C:\Users\admin\Desktop\git\all\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.c
 C:\Users\admin\Desktop\git\all\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.dll
 C:\Users\admin\Desktop\git\all\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.pdb
 C:\Users\admin\Desktop\git\all\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.exe
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.deps.json
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.runtimeconfig.json
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.runtimeconfig.dev.json
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.dll
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\bin\Debug\netcoreapp3.1\vehicle.pdb
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.dll
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.pdb
+C:\Users\admin\Desktop\git\1\vehicle\vehicle\obj\Debug\netcoreapp3.1\vehicle.genruntimeconfig.cache

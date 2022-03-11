@@ -5,7 +5,7 @@
         public int tires; //taskda cycle
         public double pathLength; //taskda driveWay
         public string color;
-        public int driveTime;
+        public int driveTime; 
         public string model;
         public int passgerCount;
 

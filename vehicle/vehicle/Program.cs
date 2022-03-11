@@ -7,7 +7,7 @@ namespace vehicle
         static void Main(string[] args)
         {
             Car bmw = new Car(4, 100, "black", 60, 100, 4, "bmw");
-            Cycle family_bicycle = new Cycle(2, 10, "blue", 10, 2, "[insert model name]");
+            Cycle family_bicycle = new Cycle(2, 10, "blue", 10, 2, "bicycle pro max plus");
             Bus baku_airport = new Bus(6, 150, "red", 50, 500, 40, "volvo");
 
             bmw.getInfo();
