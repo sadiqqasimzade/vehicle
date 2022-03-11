@@ -6,10 +6,13 @@ namespace objectclass
     {
         static void Main(string[] args)
         {
-            Student sadiq = new Student(21,"Sadiq","Qasimzade",3);
-            Teacher ulvi = new Teacher("Ulvi", "Abdullazada");
+            Student student1 = new Student(21,"Sadiq","Qasimzade",3);
+            Teacher teacher1 = new Teacher(99,"Qaqsimzade]", "Sadiq");
 
-            sadiq.getData;
+            teacher1.getFullName();
+            teacher1.getData();
+            student1.getFullName();
+            student1.getData();
         }
     }
 }

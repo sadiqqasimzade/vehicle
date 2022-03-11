@@ -9,23 +9,22 @@ namespace objectclass.Model
    
         public int course;
 
-        public Student(int age,  string name, string surname,int course)
+        
+        public Student(string name)
+        {
+            this.name = name;
+        }
+        public Student( string name, string surname):this(name)
+        {
+            this.surname = surname;
+        }
+        public Student(int age, string name, string surname):this(name,surname)
         {
             this.age = age;
-            this.name = name;
-            this.surname = surname;
+        }
+        public Student(int age, string name, string surname, int course):this(age,name,surname)
+        {
             this.course = course;
-        }
-        public Student( string name, string surname)
-        {
-            this.name = name;
-            this.surname = surname;
-        }
-        public Student(int age, string name, string surname)
-        {
-            this.age = age;
-            this.name = name;
-            this.surname = surname;
         }
 
     }
